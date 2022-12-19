@@ -1,8 +1,10 @@
-### Hi there 👋
-Toolbox
+### Hi there. I'm Dmitriy and welcome on my GitHub page.
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" heigth="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" heigth="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt ="JvaScript Logo" width="50" heigth="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub Logo" width="50" heigth="50" />
+
+My toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" heigth="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" heigth="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="HTML Logo" width="50" heigth="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt ="JvaScript Logo" width="50" heigth="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="GitHub Logo" width="50" heigth="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub Logo" width="50" heigth="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm logo" width="50" heith="50" /> 
 <!--
 **Dmitriy4455/Dmitriy4455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
