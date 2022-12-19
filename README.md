@@ -1,4 +1,4 @@
-### Hi there. I'm Dmitriy and welcome on my GitHub page.
+### Hi there. I'm Dmitriy and welcome to my GitHub page.
 
 
 
